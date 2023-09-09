@@ -1,2 +1,2 @@
-# This is my portfolio website, feel free to dig into it.
+Credits and thanks to Landon345 it helps me a lot.
 
